@@ -72,4 +72,12 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor:pointer;
+}
+
+.stats-container{
+    display:flexbox;
+    align-items: center;
+    cursor:pointer;
+    box-shadow:0 0 30px lightblue;
 }
