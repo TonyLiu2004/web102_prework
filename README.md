@@ -35,6 +35,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I had trouble with the template string because I forgot to use ` instead of the normal quotation mark.
+- It took a while for me to understand Reduce and Filter.
 
 ## License
 
