@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/bwoDM5M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bwoDM5M" data-context="false" ><a href="//imgur.com/a/bwoDM5M"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows Xbox game bar, converted to gif using imgur.
 <!-- Recommended tools:
