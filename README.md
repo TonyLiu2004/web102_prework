@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/cF5U6j8.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/bwoDM5M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 https://imgur.com/a/bwoDM5M
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows Xbox game bar, converted to gif using imgur.
